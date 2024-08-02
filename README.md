@@ -4,7 +4,7 @@ Description of your project.
 
 ## Image Example
 
-![Sample Image](images/fig2_ad_proposed.png)
+![Sample Image](fig2_ad_proposed.png)
 
 ## Installation
 
