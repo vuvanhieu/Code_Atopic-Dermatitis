@@ -16,7 +16,7 @@ The proposed model, called Cluster-CNN, is illustrated in three phases as depict
 - **Phase 3:**
   - **Step 6:** Combine the trained models from each cluster using a combined classifier.
 
-<img src="images/fig2_ad_proposed.png" alt="Sample Image" width="600" height="400">
+<img src="fig2_ad_proposed.png" alt="Sample Image" width="600" height="400">
 
 
 ## Training and Evaluation
